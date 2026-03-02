@@ -9,7 +9,6 @@ O ComandaSaas tem como objetivo oferecer uma plataforma moderna e escalável par
 - Aplicação automática de taxas (serviço, couvert, etc.)
 - Gestão de produtos
 - Relatórios financeiros
-<!-- - Estrutura preparada para multi-tenant (vários estabelecimentos) -->
 
 ## Arquitetura
 
